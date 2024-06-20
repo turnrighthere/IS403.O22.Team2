@@ -44,6 +44,9 @@ We would like to express our sincere gratitude to the following individuals for 
 
 <br>
 We hope this README provides a clear overview of our project. Should you have any questions or require further information, please do not hesitate to contact us at the provided email addresses.
+
 Thank you for your interest in our work!
+
 Sincerely,
+
 Nguyen Anh Thu, Le Thi Thanh Tam, Pham Trong Tuan
