@@ -33,7 +33,8 @@ Our main goal is to predict the closing prices of Bitcoin (BTC), Dogecoin (DOGE)
 - AR-MOS
 - Hybrid Models
 - FEDformer
-  We evaluate these models based on metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Mean Absolute Percentage Error (MAPE).
+
+We evaluate these models based on metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Mean Absolute Percentage Error (MAPE).
 
 #### Acknowledgements <br>
 
