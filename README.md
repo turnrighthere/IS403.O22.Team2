@@ -6,7 +6,7 @@
 
 ## Contributors
 
-4/ Nguyen Anh Thu - 21522647 - [Github](https://github.com/anh-thhh) <br><br>
+1/ Nguyen Anh Thu - 21522647 - [Github](https://github.com/anh-thhh) <br><br>
 2/ Le Thi Thanh Tam - 21522825 - [Github](https://github.com/UIT-21522825) <br><br>
 3/ Pham Trong Tuan - 21521636 - [Github](https://github.com/turnrighthere) <br><br>
 
