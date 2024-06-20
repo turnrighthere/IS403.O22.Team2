@@ -8,7 +8,7 @@
 
 4/ Nguyen Anh Thu - 21522647 - [Github](https://github.com/anh-thhh) <br><br>
 2/ Le Thi Thanh Tam - 21522825 - [Github](https://github.com/UIT-21522825) <br><br>
-3/ Pham Trong Tuan - 20520707 - [Github](https://github.com/turnrighthere) <br><br>
+3/ Pham Trong Tuan - 21521636 - [Github](https://github.com/turnrighthere) <br><br>
 
 ## Supervisors
 
@@ -30,7 +30,7 @@ Our main goal is to predict the closing prices of Bitcoin (BTC), Dogecoin (DOGE)
 - Recurrent Neural Network (RNN)
 - Gated Recurrent Unit (GRU)
 - Long Short-Term Memory (LSTM)
-- AR-MOS
+- AR-EMOS
 - Hybrid Models
 - FEDformer
 
